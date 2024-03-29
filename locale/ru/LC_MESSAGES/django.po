@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-28 22:07+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+#: cargo/models.py:17
+msgid "Location pick-up"
+msgstr "Локация хранения груза"
+
+#: cargo/models.py:24
+msgid "Location delivery"
+msgstr "Локация доставки груза"
+
+#: cargo/models.py:29
+msgid "Weight"
+msgstr "Вес"
+
+#: cargo/models.py:34
+msgid "Description"
+msgstr "Описание"
+
+#: cargo/models.py:41 cargo/models.py:42
+msgid "Cargo"
+msgstr "Груз"
+
+#: config/settings.py:123
+msgid "English"
+msgstr "Английский"
+
+#: config/settings.py:124
+msgid "Russian"
+msgstr "Русский"
+
+#: locations/models.py:11
+msgid "City"
+msgstr "Город"
+
+#: locations/models.py:15
+msgid "State Name"
+msgstr "Штат"
+
+#: locations/models.py:20
+msgid "Zip Code"
+msgstr "Почтовый индекс"
+
+#: locations/models.py:25
+msgid "Latitude"
+msgstr "Широта"
+
+#: locations/models.py:30
+msgid "Longitude"
+msgstr "Долгота"
+
+#: locations/models.py:37 transportation/models.py:30
+msgid "Location"
+msgstr "Локация"
+
+#: locations/models.py:38
+msgid "Locations"
+msgstr "Локации"
+
+#: transportation/models.py:22
+msgid "Car number"
+msgstr "Номер машины"
+
+#: transportation/models.py:35
+msgid "Carrying capacity"
+msgstr "Грузоподъемность"
+
+#: transportation/models.py:42
+msgid "Transport"
+msgstr "Транспорт"
+
+#: transportation/models.py:43
+msgid "Transports"
+msgstr "Транспорт"
+
+#: users/models.py:13
+msgid "Email"
+msgstr "Почта"
+
+#: users/models.py:22
+msgid "User"
+msgstr "Пользователь"
+
+#: users/models.py:23
+msgid "Users"
+msgstr "Пользователи"
