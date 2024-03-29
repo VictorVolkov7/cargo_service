@@ -1,0 +1,142 @@
+[
+  {
+    "model": "transportation.transport",
+    "pk": 1,
+    "fields": {
+      "carrying_capacity": 400
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 2,
+    "fields": {
+      "carrying_capacity": 550
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 3,
+    "fields": {
+      "carrying_capacity": 780
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 4,
+    "fields": {
+      "carrying_capacity": 250
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 5,
+    "fields": {
+      "carrying_capacity": 950
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 6,
+    "fields": {
+      "carrying_capacity": 420
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 7,
+    "fields": {
+      "carrying_capacity": 890
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 8,
+    "fields": {
+      "carrying_capacity": 575
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 9,
+    "fields": {
+      "carrying_capacity": 210
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 10,
+    "fields": {
+      "carrying_capacity": 670
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 11,
+    "fields": {
+      "carrying_capacity": 800
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 12,
+    "fields": {
+      "carrying_capacity": 350
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 13,
+    "fields": {
+      "carrying_capacity": 1000
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 14,
+    "fields": {
+      "carrying_capacity": 50
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 15,
+    "fields": {
+      "carrying_capacity": 250
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 16,
+    "fields": {
+      "carrying_capacity": 170
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 17,
+    "fields": {
+      "carrying_capacity": 90
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 18,
+    "fields": {
+      "carrying_capacity": 660
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 19,
+    "fields": {
+      "carrying_capacity": 465
+    }
+  },
+  {
+    "model": "transportation.transport",
+    "pk": 20,
+    "fields": {
+      "carrying_capacity": 130
+    }
+  }
+]
