@@ -68,6 +68,12 @@ SU_PASSWORD=superuser password
 
 `python manage.py runserver` или настройте запуск Django сервера в настройках.
 
+Выполните эти команды для старта работы периодических задач:
+```ini
+celery -A config worker —loglevel=info  #сначала выполните эту команду
+celery -A config beat —loglevel=info  #откройте дополнительное окно терминала и выполните эту команду
+```
+
 
 Таким образом можно работать с backend-частью локально для отладки.
 
@@ -103,6 +109,7 @@ SU_PASSWORD=superuser password
 
 `docker compose up` для запуска docker compose контейнера.
 
+Старт переодических задач происходит автоматически (может потребоваться ручной запуск celery beat)
 
 
 
